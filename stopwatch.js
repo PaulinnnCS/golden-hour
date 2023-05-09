@@ -56,10 +56,4 @@
         }
 
 
-        function download(){
-            console.log("rr");
-            var arquivo = document.createElement("a");
-            arquivo.setAttribute("href","texto.txt");
-            arquivo.setAttribute("download","/img/caue.jpg");
-            console.log("finshj");
-          }
+  
