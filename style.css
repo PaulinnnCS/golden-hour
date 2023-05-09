@@ -113,6 +113,7 @@ h2.text {
     text-align: center;
     line-height: 85px;
     cursor: pointer;
+    margin-top: 30px;
 }
 
 .win:hover{
